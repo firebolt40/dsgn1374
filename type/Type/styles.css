@@ -1,0 +1,48 @@
+/* Type */
+head { font-size:5em; }
+
+body {
+
+	background-color: darkorange;
+	color: black;
+	font-family: sans-serif;
+	line-height: 2.0;
+    font-size: 2em;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+
+}
+.new-color {
+	color: yellow;
+}
+.other-font {
+	font-family: 'Ramaraja', serif;
+}
+
+.ugggh {
+	font-weight: 700;
+
+}
+
+.cool {
+	color: white;
+	font-weight: 200;
+	transform: rotate( 0deg )
+}
+
+h1 {
+	color:white;
+	font-size:15em;
+	box-shadow: 
+transform: rotate( -90deg)}
+
+ h2 { color:black; 
+ 	font-weight:800;
+ 	font-size:10em;
+ 	transform: rotate(90deg) }
+
+ 	h3 { color:white; }
+
+ 	h4 { color:red; 
+
+ 	}
